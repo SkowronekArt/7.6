@@ -1,0 +1,25 @@
+{
+  "name": "7.6",
+  "version": "1.0.0",
+  "description": "grunt druga próba",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "7.6"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Anna Skowronek-Jaskuła",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
